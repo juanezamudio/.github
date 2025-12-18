@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hey, I'm Juan Zamudio! 👋
+# Hey, I'm Juan Zamudio! 👋🏽
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanezamudio)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanezamudio)
-[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/juanezamudio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanezamudio)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/juanezamudio)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/juanezamudio)
 
-![Profile Views](https://komarev.com/ghpvc/?username=juanezamudio&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=juanezamudio&color=blueviolet&style=flat)
 
 </div>
 
@@ -28,10 +28,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
 
@@ -66,7 +66,7 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝🏽 Let's Connect!
 
 <div align="center">
 
@@ -74,13 +74,13 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 Whether it's about tech, theatre, or building something amazing together — let's chat!
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanezamudio)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanezamudio)
 
 ---
 
 **💖 If you find my work helpful, consider sponsoring me!**
 
-[![Sponsor](https://img.shields.io/badge/Sponsor_My_Work-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/juanezamudio)
+[![Sponsor](https://img.shields.io/badge/Sponsor_My_Work-EA4AAA?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/juanezamudio)
 
 </div>
 
