@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/juanezamudio)
 [![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/juanezamudio)
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=juanezamudio.juanezamudio&left_color=%23333&right_color=%238b5cf6)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=juanezamudio.juanezamudio&left_color=%23333&right_color=%238b5cf6&left_text=Profile%20Views)
 
 </div>
 
