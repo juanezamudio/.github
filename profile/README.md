@@ -60,7 +60,7 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanezamudio&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=juanezamudio&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -70,7 +70,7 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 <div align="center">
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=juanezamudio&theme=tokyonight&no-frame=true&row=1&column=4)
+![Achievements](https://github-profile-trophy.vercel.app/?username=juanezamudio&theme=algolia&no-frame=true&no-bg=true&row=1&column=4)
 
 </div>
 
