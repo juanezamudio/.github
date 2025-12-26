@@ -1,0 +1,127 @@
+name: Update Current Projects
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Update Current Projects with AI
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node << 'EOF'
+          const fs = require('fs');
+
+          async function main() {
+            // Fetch recent repos from GitHub API
+            const reposResponse = await fetch('https://api.github.com/users/juanezamudio/repos?sort=pushed&direction=desc&per_page=15', {
+              headers: { 'Authorization': `token ${process.env.GITHUB_TOKEN}` }
+            });
+            const allRepos = await reposResponse.json();
+
+            // Filter out certain repos
+            const excludeRepos = ['.github', 'dotfiles', 'juanezamudio'];
+            const recentRepos = allRepos
+              .filter(repo => !excludeRepos.includes(repo.name) && !repo.fork)
+              .slice(0, 4);
+
+            console.log('Processing repos:', recentRepos.map(r => r.name));
+
+            // Prepare repo info for AI
+            const repoInfo = recentRepos.map(r => ({
+              name: r.name,
+              description: r.description || 'No description',
+              language: r.language || 'Unknown',
+              url: r.html_url
+            }));
+
+            // Call Gemini API
+            const prompt = `You are helping update a GitHub profile README. For each repository below, provide:
+          1. A single relevant emoji that represents the project
+          2. A short, engaging description (max 10 words) if the current description is "No description", otherwise keep the original
+
+          Repositories:
+          ${JSON.stringify(repoInfo, null, 2)}
+
+          Respond in JSON format only, no markdown:
+          [{"name": "repo-name", "emoji": "🔨", "description": "Short description here"}, ...]`;
+
+            const geminiResponse = await fetch(
+              `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${process.env.GEMINI_API_KEY}`,
+              {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                  contents: [{ parts: [{ text: prompt }] }],
+                  generationConfig: { temperature: 0.7 }
+                })
+              }
+            );
+
+            const geminiData = await geminiResponse.json();
+            let aiOutput;
+
+            try {
+              const responseText = geminiData.candidates[0].content.parts[0].text;
+              // Clean up potential markdown formatting
+              const cleanJson = responseText.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
+              aiOutput = JSON.parse(cleanJson);
+              console.log('AI output:', aiOutput);
+            } catch (e) {
+              console.log('AI parsing failed, using fallback:', e.message);
+              console.log('Raw response:', JSON.stringify(geminiData, null, 2));
+              // Fallback to basic emoji mapping
+              aiOutput = recentRepos.map(repo => ({
+                name: repo.name,
+                emoji: '🔨',
+                description: repo.description || `Working on ${repo.name.replace(/-/g, ' ')}`
+              }));
+            }
+
+            // Build the new section content
+            let newSection = '## 🔭 Currently Working On\n\n';
+            for (const repo of recentRepos) {
+              const aiRepo = aiOutput.find(r => r.name === repo.name) || { emoji: '🔨', description: repo.description || repo.name };
+              newSection += `- ${aiRepo.emoji} [**${repo.name}**](${repo.html_url}) — ${aiRepo.description}\n`;
+            }
+
+            // Read and update README
+            const readmePath = 'README.md';
+            let readme = fs.readFileSync(readmePath, 'utf8');
+            const sectionRegex = /## 🔭 Currently Working On\n\n[\s\S]*?(?=\n---|\n## )/;
+            readme = readme.replace(sectionRegex, newSection);
+            fs.writeFileSync(readmePath, readme);
+
+            // Also update profile/README.md
+            const profileReadmePath = 'profile/README.md';
+            if (fs.existsSync(profileReadmePath)) {
+              let profileReadme = fs.readFileSync(profileReadmePath, 'utf8');
+              profileReadme = profileReadme.replace(sectionRegex, newSection);
+              fs.writeFileSync(profileReadmePath, profileReadme);
+            }
+
+            console.log('README updated successfully!');
+          }
+
+          main().catch(console.error);
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Update current projects with AI" && git push)

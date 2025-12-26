@@ -2,6 +2,8 @@
 
 # Hey, I'm Juan Zamudio! 👋🏽
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Software+Developer;UI%2FUX+Enthusiast;Theatre+%2B+Tech;Building+inclusive+experiences)](https://git.io/typing-svg)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanezamudio)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/juanezamudio)
 [![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/juanezamudio)
@@ -22,18 +24,63 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 🎯 I believe technology should be accessible, inclusive, and beautifully designed
 
+🎵 **Currently vibing to:**
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1211570312&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1211570312&redirect=true)
+
+---
+
+## 🎲 Fun Facts
+
+- 🎭 Theatre nerd who loves acting, singing (especially karaoke), and dancing
+- 🌎 Born in **Colombia**, raised in the **U.S.**, and have traveled to **40+ states**
+- 🗣️ Trilingual: **English**, **Spanish**, and **Italian**
+- 🛹 When I'm not coding, you'll find me longboarding, at the gym, or exploring new places
+- 📺 Sci-fi enthusiast — currently obsessed with *Dark Matter* and *Silo*
+
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
+**Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+
+**Cloud & DevOps**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
 </div>
+
+---
+
+## 🔭 Currently Working On
+
+- 🚨 [**MigrAlert**](https://github.com/juanezamudio/migralert) — Building tools to help immigrant communities stay informed
+- 🎨 [**Miami Art Basel 2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A guide/resource for Art Basel Miami
+- ✈️ [**Travel Concierge AI**](https://github.com/juanezamudio/travel-concierge-ai) — AI-powered travel planning assistant
+- 📧 [**Inbox Zero**](https://github.com/juanezamudio/inbox-zero) — Exploring AI-powered email management
 
 ---
 
@@ -53,8 +100,14 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=juanezamudio&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=juanezamudio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanezamudio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=juanezamudio&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanezamudio&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -62,7 +115,20 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanezamudio&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanezamudio/.github/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanezamudio/.github/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/juanezamudio/.github/output/github-snake.svg" />
+</picture>
+
 </div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -89,5 +155,7 @@ Whether it's about tech, theatre, or building something amazing together — let
 <div align="center">
 
 *"Where code meets creativity"*
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
