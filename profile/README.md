@@ -77,10 +77,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — Alerts you about migrations and database changes.
-- ✉️ [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — Tools to help you achieve inbox zero.
-- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — Planning and data for Miami Art Basel 2025.
-- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — AI-powered travel concierge to plan your trips.
+- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A mobile-first PWA that allows community members to report and view real-time immigration enforcement activity.
+- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant that organizes your inbox, pre-drafts replies, and tracks follow-ups to reach inbox zero.
+- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A comprehensive guide for Miami Art Basel 2025, featuring event listings, an AI assistant, and interactive maps.
+- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered web app for travel planning, featuring real-time chat, map integration, and itinerary management.
 
 ---
 
