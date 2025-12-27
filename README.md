@@ -154,6 +154,6 @@ Whether it's about tech, theatre, or building something amazing together — let
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="100%" style="max-width: 550px;" />
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
