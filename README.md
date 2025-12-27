@@ -77,10 +77,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
+- 🔨 [**github-profile-trophy**](https://github.com/juanezamudio/github-profile-trophy) — Working on github profile trophy
+- 🔨 [**github-readme-stats**](https://github.com/juanezamudio/github-readme-stats) — Working on github readme stats
 - 🔨 [**migralert**](https://github.com/juanezamudio/migralert) — Working on migralert
 - 🔨 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — Working on inbox zero
-- 🔨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — Working on miami art basel 2025
-- 🔨 [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — Working on travel concierge ai
 
 ---
 
