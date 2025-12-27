@@ -100,12 +100,12 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=juanezamudio&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy-steel-mu.vercel.app/?username=juanezamudio&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=juanezamudio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanezamudio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api?username=juanezamudio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/top-langs/?username=juanezamudio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=juanezamudio&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
+<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/wakatime?username=juanezamudio&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanezamudio&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
