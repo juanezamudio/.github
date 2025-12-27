@@ -154,8 +154,6 @@ Whether it's about tech, theatre, or building something amazing together — let
 
 <div align="center">
 
-*"Where code meets creativity"*
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="100%" style="max-width: 550px;" />
 
 </div>
