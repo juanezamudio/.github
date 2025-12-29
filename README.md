@@ -77,10 +77,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-driven mobile app using real-time reports to alert users about immigration enforcement activity and provide safety information.
-- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant that organizes inboxes, drafts replies, and tracks follow-ups to help users achieve inbox zero.
-- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A comprehensive guide for Miami Art Basel 2025, providing event listings, an AI assistant, and interactive maps for attendees.
-- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — A web app using AI to plan and manage personalized travel itineraries, including real-time chat and map integration features.
+- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-driven PWA providing real-time alerts about immigration enforcement activities, with emergency features and language support.
+- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant that organizes inboxes, pre-drafts replies, and tracks follow-ups to help you reach inbox zero.
+- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A comprehensive guide for Miami Art Basel 2025, offering event listings, an AI assistant, and interactive maps for art enthusiasts.
+- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered web app for travel planning, featuring itinerary creation, real-time chat, map integration, and export options.
 
 ---
 
