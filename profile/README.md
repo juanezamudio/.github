@@ -105,12 +105,14 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 <br/>
 
-<!-- Stats & Languages Side by Side -->
-<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api?username=juanezamudio&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/top-langs/?username=juanezamudio&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages" width="49%"/>
+<!-- Stats -->
+<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api?username=juanezamudio&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" alt="GitHub Stats" width="100%"/>
+
+<!-- Languages -->
+<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/top-langs/?username=juanezamudio&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages" width="100%"/>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=juanezamudio&theme=tokyonight_night&v=1" alt="GitHub Streak" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=juanezamudio&theme=tokyonight_night" alt="GitHub Streak" width="100%"/>
 
 <br/>
 
