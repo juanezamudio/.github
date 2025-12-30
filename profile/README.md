@@ -106,8 +106,8 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 <br/>
 
 <!-- Stats & Languages Side by Side -->
-<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api?username=juanezamudio&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/top-langs/?username=juanezamudio&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api?username=juanezamudio&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/top-langs/?username=juanezamudio&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages" width="49%"/>
 
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=juanezamudio&theme=tokyonight_night&v=1" alt="GitHub Streak" width="100%"/>
@@ -115,12 +115,12 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 <br/>
 
 <!-- WakaTime Stats -->
-<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/wakatime?username=juanezamudio&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="WakaTime Stats" width="100%"/>
+<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/wakatime?username=juanezamudio&theme=tokyonight&hide_border=true&border_radius=15&layout=compact" alt="WakaTime Stats" width="100%"/>
 
 <br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanezamudio&theme=tokyo-night&hide_border=true&radius=10" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanezamudio&theme=tokyo-night&hide_border=true&radius=15" alt="Activity Graph" width="100%"/>
 
 <br/>
 
