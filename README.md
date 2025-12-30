@@ -107,7 +107,7 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 <img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/wakatime?username=juanezamudio&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanezamudio&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=juanezamudio&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
