@@ -106,29 +106,21 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 <br/>
 
 <!-- Stats & Languages Side by Side -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api?username=juanezamudio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=400" alt="GitHub Stats" width="100%"/>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/top-langs/?username=juanezamudio&layout=compact&theme=tokyonight&hide_border=true&card_width=400&langs_count=8" alt="Top Languages" width="100%"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api?username=juanezamudio&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/top-langs/?username=juanezamudio&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" height="180"/>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=juanezamudio&theme=tokyonight_night" alt="GitHub Streak" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=juanezamudio&theme=tokyonight_night&v=1" alt="GitHub Streak" width="100%"/>
 
 <br/>
 
 <!-- WakaTime Stats -->
-<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/wakatime?username=juanezamudio&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" width="100%"/>
+<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/wakatime?username=juanezamudio&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="WakaTime Stats" width="100%"/>
 
 <br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanezamudio&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanezamudio&theme=tokyo-night&hide_border=true&radius=10" alt="Activity Graph" width="100%"/>
 
 <br/>
 
