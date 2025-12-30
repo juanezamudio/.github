@@ -101,34 +101,34 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 <div align="center">
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy-steel-mu.vercel.app/?username=juanezamudio&theme=tokyonight&no-frame=false&no-bg=false&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy-steel-mu.vercel.app/?username=juanezamudio&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%"/>
 
 <br/>
 
 <!-- Stats & Languages Side by Side -->
 <table>
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api?username=juanezamudio&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&count_private=true&border_color=1a1b27" alt="GitHub Stats" width="100%"/>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api?username=juanezamudio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=400" alt="GitHub Stats" width="100%"/>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/top-langs/?username=juanezamudio&layout=compact&theme=tokyonight&hide_border=false&border_radius=12&border_color=1a1b27" alt="Top Languages" width="100%"/>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/top-langs/?username=juanezamudio&layout=compact&theme=tokyonight&hide_border=true&card_width=400&langs_count=8" alt="Top Languages" width="100%"/>
     </td>
   </tr>
 </table>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=juanezamudio&theme=tokyonight_night&hide_border=false&border_radius=12&ring=70a5fd&fire=bf91f3&currStreakLabel=bf91f3" alt="GitHub Streak" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=juanezamudio&theme=tokyonight_night" alt="GitHub Streak" width="100%"/>
 
 <br/>
 
 <!-- WakaTime Stats -->
-<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/wakatime?username=juanezamudio&theme=tokyonight&hide_border=false&border_radius=12&layout=compact&border_color=1a1b27" alt="WakaTime Stats" width="100%"/>
+<img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/wakatime?username=juanezamudio&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" width="100%"/>
 
 <br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanezamudio&theme=tokyo-night&hide_border=false&radius=12" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanezamudio&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
 
 <br/>
 
