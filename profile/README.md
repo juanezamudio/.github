@@ -77,10 +77,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-driven PWA providing real-time alerts and information about immigration enforcement activities, with emergency features.
-- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant that organizes your inbox, drafts replies, and tracks follow-ups to help you achieve inbox zero.
-- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A comprehensive guide for Miami Art Basel 2025, featuring event listings, an AI assistant, and interactive maps.
-- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered web app designed to help users plan, manage, and navigate personalized travel itineraries with various features.
+- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-powered PWA providing real-time alerts about immigration enforcement activity, with features like reporting and emergency notifications.
+- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A fun, interactive dApp where users predict if the next Bitcoin block hash will be odd or even, built with React.
+- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered web app for travel planning, featuring itinerary management, real-time chat, and map integration, built with TypeScript.
+- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant that organizes inboxes, drafts replies, and tracks follow-ups to help achieve inbox zero.
 
 ---
 
