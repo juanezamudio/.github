@@ -77,10 +77,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-powered PWA that allows users to report and view real-time immigration enforcement activity, built with Next.js and Supabase.
-- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A fun, interactive dApp built with React that lets users play an Odd/Even prediction game using live Bitcoin block data.
-- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered travel planning web app with features like itinerary creation, real-time chat, and map integration, built with TypeScript.
-- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant that organizes inboxes, pre-drafts replies, and tracks follow-ups, built with TypeScript.
+- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A mobile-first PWA that allows community members to report and view real-time immigration enforcement activity, with emergency alerts.
+- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A React-based dApp that lets users predict the odd or even nature of Bitcoin block hashes in a fun, interactive game.
+- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered web app for travel planning, offering personalized itineraries, real-time chat, map integration, and export options.
+- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant that organizes inboxes, pre-drafts replies, and tracks follow-ups to help users reach inbox zero.
 
 ---
 
