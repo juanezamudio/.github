@@ -112,7 +112,7 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 <img src="https://github-readme-stats-juanezamudios-projects.vercel.app/api/top-langs/?username=juanezamudio&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages" width="100%"/>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=juanezamudio&theme=tokyonight_night" alt="GitHub Streak" width="100%"/>
+<img src="https://streak-stats.vercel.app/?user=juanezamudio&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
 
 <br/>
 
