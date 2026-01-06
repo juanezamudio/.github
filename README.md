@@ -24,9 +24,13 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 🎯 I believe technology should be accessible, inclusive, and beautifully designed
 
+<div align="center">
+
 🎵 **Currently vibing to:**
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1211570312&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1211570312&redirect=true)
+
+</div>
 
 ---
 
