@@ -81,10 +81,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A Next.js application providing event listings, an AI chatbot, and a calendar for the Miami Art Basel 2025 event.
-- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant built with TypeScript that helps users organize their inbox and manage emails.
-- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A mobile-first PWA built with Next.js that allows community members to report and view immigration enforcement activity.
-- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A React-based dApp where users can play an odd/even prediction game using live Bitcoin block data.
+- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A React-based dApp where users predict if the last bit of a Bitcoin block hash is odd or even, with live data.
+- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A Next.js and TypeScript-based guide for the Miami Art Basel 2025, providing event listings and an AI assistant.
+- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant built with TypeScript that organizes inboxes, drafts replies, and tracks follow-ups.
+- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-powered PWA built with Next.js, providing real-time alerts about immigration enforcement activity and safety.
 
 ---
 
