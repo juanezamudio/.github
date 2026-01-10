@@ -81,10 +81,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A React-based dApp where users predict if the last bit of a Bitcoin block hash is odd or even, with live data.
-- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A Next.js and TypeScript-based guide for the Miami Art Basel 2025, providing event listings and an AI assistant.
-- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant built with TypeScript that organizes inboxes, drafts replies, and tracks follow-ups.
-- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-powered PWA built with Next.js, providing real-time alerts about immigration enforcement activity and safety.
+- 🏘️ [**building-buddy**](https://github.com/juanezamudio/building-buddy) — A web app for neighbors to connect, share resources, and build community, featuring an animated landing page and Supabase authentication.
+- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered web app for travel planning, offering personalized itineraries, real-time chat, map integration, and export options.
+- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA for a farmers market, enabling volunteers to calculate prices, track orders, and manage sales data offline.
+- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A fun dApp where users predict if the last bit of the next Bitcoin block hash will be odd or even, built with React.
 
 ---
 
