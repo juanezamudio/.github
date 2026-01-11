@@ -81,10 +81,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🏘️ [**building-buddy**](https://github.com/juanezamudio/building-buddy) — A web app for neighbors to connect, share resources, and build community, featuring an animated landing page and Supabase authentication.
-- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered web app for travel planning, offering personalized itineraries, real-time chat, map integration, and export options.
-- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA for a farmers market, enabling volunteers to calculate prices, track orders, and manage sales data offline.
-- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A fun dApp where users predict if the last bit of the next Bitcoin block hash will be odd or even, built with React.
+- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA for a farmers market, enabling efficient price calculations, order tracking, and sales summary generation for volunteers.
+- 🏠 [**building-buddy**](https://github.com/juanezamudio/building-buddy) — A modern web app for sharing, borrowing, and connecting with neighbors, featuring an animated landing page and Supabase authentication.
+- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered travel planning web app with real-time chat, map integration, and itinerary export options, currently in development.
+- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A fun, interactive dApp built with React that allows users to play an Odd/Even prediction game using live Bitcoin block data.
 
 ---
 
