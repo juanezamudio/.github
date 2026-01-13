@@ -81,10 +81,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA for the Urban Oasis Project farmers market, enabling efficient POS functionality, order tracking, and sales summaries.
-- 🏘️ [**building-buddy**](https://github.com/juanezamudio/building-buddy) — A playful web app for neighbors to connect, share, and borrow items, featuring an animated landing page and Supabase authentication.
+- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA for the Urban Oasis Project, enabling volunteers to efficiently manage farmers market orders and sales.
+- 🏘️ [**building-buddy**](https://github.com/juanezamudio/building-buddy) — A web app designed for connecting neighbors, featuring an animated landing page, user authentication, and a modern design.
 - ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered web app for travel planning, offering itinerary creation, real-time chat, map integration, and export options.
-- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A React-based dApp where users predict if the last bit of the next Bitcoin block hash will be odd or even.
+- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A fun React-based dApp for playing an Odd/Even prediction game using live Bitcoin block data, with a block explorer.
 
 ---
 
