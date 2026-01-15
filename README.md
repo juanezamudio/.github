@@ -81,10 +81,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA POS application for a farmer's market, enabling efficient order management, price calculations, and sales tracking.
-- 🏠 [**building-buddy**](https://github.com/juanezamudio/building-buddy) — A modern web app for neighbors to share, borrow, and connect, featuring an animated landing page and Supabase authentication.
-- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered web app for travel planning, offering personalized itineraries, real-time chat, and map integration.
-- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A fun dApp where users predict if the last bit of a Bitcoin block hash will be odd or even, with live block data.
+- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA for farmers markets, enabling efficient POS functionality including order tracking, and sales summaries.
+- 🏠 [**building-buddy**](https://github.com/juanezamudio/building-buddy) — A modern web app for connecting neighbors, featuring an animated landing page, user authentication, and a playful design.
+- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered travel planning web app that generates personalized itineraries with real-time chat and map integration.
+- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A fun, interactive dApp where users predict if the last bit of a Bitcoin block hash will be odd or even.
 
 ---
 
