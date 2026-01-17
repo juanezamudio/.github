@@ -81,10 +81,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A comprehensive guide to Miami Art Basel 2025, offering event listings, an AI chatbot, and interactive maps for art enthusiasts.
-- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An AI-powered email assistant designed to help users achieve inbox zero by organizing and pre-drafting replies.
-- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA POS system for the Urban Oasis Project farmers market, facilitating order management and sales tracking.
-- 🏘️ [**building-buddy**](https://github.com/juanezamudio/building-buddy) — A modern web app for neighbors to connect, share, and borrow items, featuring authentication and a playful design.
+- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A Next.js and TypeScript web app providing a comprehensive guide to events, listings, and AI assistance for Miami Art Basel 2025.
+- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant built with TypeScript that organizes inboxes, drafts replies, and tracks follow-ups to achieve inbox zero.
+- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA for the Urban Oasis Project farmers market, enabling efficient POS functionality for volunteers and admins.
+- 🏘️ [**building-buddy**](https://github.com/juanezamudio/building-buddy) — A playful web app built with TypeScript, designed for neighbors to share, borrow, and connect with each other, with Supabase integration.
 
 ---
 
