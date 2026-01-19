@@ -81,10 +81,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A comprehensive web app providing event listings, an AI chatbot, and maps for navigating the Miami Art Basel 2025 art week.
-- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source, AI-powered email assistant that organizes inboxes, pre-drafts replies, and tracks follow-ups efficiently.
-- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA POS system for the Urban Oasis Project farmers market, enabling efficient order management and sales tracking.
-- 🏘️ [**building-buddy**](https://github.com/juanezamudio/building-buddy) — A modern web app designed for connecting neighbors, facilitating sharing, and borrowing with features like authentication and theming.
+- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A comprehensive guide for the Miami Art Basel 2025, offering event listings, an AI chatbot, and interactive maps for attendees.
+- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant designed to help users organize their inbox, pre-draft replies, and track follow-ups.
+- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA POS system for the Urban Oasis Project farmers market, streamlining sales, order tracking, and admin tasks.
+- 🏘️ [**building-buddy**](https://github.com/juanezamudio/building-buddy) — A web application designed for neighbors to connect, share resources, and build community with features like authentication.
 
 ---
 
