@@ -81,10 +81,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A mobile-first PWA providing real-time alerts about immigration enforcement activity, with features for reporting and emergency notifications.
-- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A comprehensive guide to Miami Art Basel 2025, featuring event listings, a calendar, map view, and an AI-powered assistant.
-- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA POS for a farmers market, enabling efficient price calculations, order tracking, and sales summary reports.
-- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant designed to help users organize their inbox, pre-draft replies, and track follow-ups.
+- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A mobile PWA that provides real-time alerts about immigration enforcement activity, with reporting and emergency features.
+- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant that organizes inboxes, drafts replies, and tracks follow-ups to achieve inbox zero.
+- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A comprehensive guide for Miami Art Basel 2025, featuring event listings, an AI assistant, and interactive maps.
+- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA POS system for a farmers market, enabling price calculations, order tracking, and sales summaries.
 
 ---
 
