@@ -81,10 +81,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered travel planning web app with real-time chat, map integration, and export options, currently with Google OAuth implemented.
-- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-powered PWA that allows users to report and view real-time information about immigration enforcement activity.
-- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA POS system for a farmers market, featuring product management, order tracking, and sales summaries.
-- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant that organizes inboxes, pre-drafts replies, and tracks follow-ups to help achieve inbox zero.
+- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered travel planning web app with real-time chat, map integration, and export options, currently with core features implemented.
+- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-powered PWA providing real-time alerts about immigration enforcement activity, with a focus on Phase 1 MVP features.
+- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA POS system for a farmers market, enabling efficient order management, price calculations, and sales tracking.
+- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant that organizes your inbox, drafts replies, and tracks follow-ups, aiming for inbox zero.
 
 ---
 
