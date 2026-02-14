@@ -82,9 +82,9 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 ## 🔭 Currently Working On
 
 - ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered travel planning web app with real-time chat, map integration, and export options, currently with Google OAuth implemented.
-- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-powered PWA providing real-time alerts about immigration enforcement activity, with features like map views and report submission.
-- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA POS system for a farmers market, enabling price calculations, order tracking, and sales summaries for volunteers.
-- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant that organizes inboxes, pre-drafts replies, and tracks follow-ups, aiming for inbox zero.
+- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-powered PWA providing real-time alerts about immigration enforcement activity, with a map view and reporting features.
+- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA POS system for a farmers market, featuring product management, order tracking, and payment processing capabilities.
+- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant that organizes your inbox, pre-drafts replies, and tracks follow-ups to help you reach inbox zero.
 
 ---
 
