@@ -81,10 +81,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered travel planning web app with real-time chat, map integration, and export options, currently with Google OAuth implemented.
-- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-powered PWA providing real-time alerts about immigration enforcement activity, with a map view and reporting features.
-- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA POS system for a farmers market, featuring product management, order tracking, and payment processing capabilities.
-- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant that organizes your inbox, pre-drafts replies, and tracks follow-ups to help you reach inbox zero.
+- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A mobile PWA enabling community reporting of immigration enforcement activity, with features like real-time maps and emergency alerts.
+- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A fun React-based dApp where users predict the outcome of Bitcoin block hashes in an Odd/Even prediction game.
+- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — A travel planning web app using AI, offering itinerary management, real-time chat, map integration, and export options.
+- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA POS system for a farmers market, featuring product management, order tracking, and sales summaries.
 
 ---
 
