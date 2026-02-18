@@ -81,10 +81,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-powered PWA that allows users to report and view immigration enforcement activity with real-time alerts.
-- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A fun React dApp where users predict if the next Bitcoin block hash will be odd or even, with live data.
-- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — An AI-powered web app for travel planning, featuring itinerary management, real-time chat, and map integration.
-- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA POS system for a farmers market, enabling efficient order management, and sales tracking.
+- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-powered PWA that allows users to report and view real-time immigration enforcement activity, with an emergency alert system.
+- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A React-based dApp where users can predict the odd/even outcome of Bitcoin block hashes, with a live block explorer.
+- ✈️ [**travel-concierge-ai**](https://github.com/juanezamudio/travel-concierge-ai) — A modern web app using AI to plan personalized travel itineraries, with features like real-time chat and map integration.
+- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA POS system for a farmers market, enabling quick price calculations, order tracking, and sales summaries.
 
 ---
 
