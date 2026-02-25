@@ -81,10 +81,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA for the Urban Oasis Project, enabling efficient farmers market POS functionality, including order management and sales summaries.
-- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-powered PWA providing real-time alerts and information about immigration enforcement activity, supporting community safety.
-- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant that organizes inboxes, pre-drafts replies, and tracks follow-ups to help users achieve inbox zero.
-- 🎲 [**bit-toss**](https://github.com/juanezamudio/bit-toss) — A fun, interactive dApp where users predict if the last bit of the next Bitcoin block hash will be odd or even.
+- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A comprehensive guide for the Miami Art Basel 2025, offering event listings, an AI chatbot, and interactive maps for attendees.
+- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first POS app for a farmers market, enabling quick price calculations, order tracking, and sales summaries.
+- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-powered PWA that provides real-time alerts and information about immigration enforcement activity.
+- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant designed to organize inboxes, pre-draft replies, and track follow-ups for users.
 
 ---
 
