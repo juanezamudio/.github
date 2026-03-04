@@ -81,10 +81,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A comprehensive guide to Miami Art Basel 2025, providing event listings, an AI chatbot, and interactive maps for attendees.
-- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA POS system for a farmers market, enabling efficient order management, pricing, and sales summaries.
-- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A community-powered app for reporting and viewing real-time immigration enforcement activity, promoting safety and awareness.
-- 📧 [**inbox-zero**](https://github.com/juanezamudio/inbox-zero) — An open-source AI email assistant that organizes inboxes, drafts replies, and tracks follow-ups to help users achieve inbox zero.
+- 🔨 [**civix-web**](https://github.com/juanezamudio/civix-web) — Working on civix web
+- 🔨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — Working on miami art basel 2025
+- 🔨 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — Working on urban oasis app
+- 🔨 [**migralert**](https://github.com/juanezamudio/migralert) — Working on migralert
 
 ---
 
