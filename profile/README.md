@@ -81,10 +81,10 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A mobile PWA providing real-time alerts about immigration enforcement activity, empowering communities with safety information and emergency features.
-- 🏛️ [**civix-web**](https://github.com/juanezamudio/civix-web) — A civic engagement platform using real-time data and AI to connect citizens with community resources and local government information.
-- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A comprehensive guide to Miami Art Basel 2025, offering event listings, an AI assistant, and a map view for art enthusiasts.
-- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA POS system for the Urban Oasis Project farmers market, streamlining order management and sales tracking.
+- 🚨 [**migralert**](https://github.com/juanezamudio/migralert) — A mobile PWA enabling community reporting of immigration enforcement activity, with real-time maps and emergency alerts.
+- 🏛️ [**civix-web**](https://github.com/juanezamudio/civix-web) — A civic engagement platform offering community resource discovery, budget tracking, and issue reporting with AI insights.
+- 🎨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — A comprehensive guide to Miami Art Basel 2025, featuring event listings, an AI assistant, and interactive maps.
+- 🛒 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — A mobile-first PWA point-of-sale system for a farmers market, enabling order management and sales tracking.
 
 ---
 
