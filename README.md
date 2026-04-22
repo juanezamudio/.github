@@ -81,9 +81,9 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
+- 🔨 [**ai-agent**](https://github.com/juanezamudio/ai-agent) — Working on ai agent
 - 🔨 [**urban-oasis-app**](https://github.com/juanezamudio/urban-oasis-app) — Working on urban oasis app
 - 🔨 [**migralert**](https://github.com/juanezamudio/migralert) — Working on migralert
-- 🔨 [**ai-agent**](https://github.com/juanezamudio/ai-agent) — Working on ai agent
 - 🔨 [**asteroids**](https://github.com/juanezamudio/asteroids) — Working on asteroids
 
 ---
