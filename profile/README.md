@@ -81,8 +81,8 @@ I'm a **Pomona College** graduate with a unique double major in **Computer Scien
 
 ## 🔭 Currently Working On
 
-- 🔨 [**handoff**](https://github.com/juanezamudio/handoff) — Working on handoff
 - 🔨 [**miami-art-basel-2025**](https://github.com/juanezamudio/miami-art-basel-2025) — Working on miami art basel 2025
+- 🔨 [**handoff**](https://github.com/juanezamudio/handoff) — Working on handoff
 - 🔨 [**ai-agent**](https://github.com/juanezamudio/ai-agent) — Working on ai agent
 - 🔨 [**bookbot**](https://github.com/juanezamudio/bookbot) — Working on bookbot
 
